@@ -54,7 +54,7 @@ Projet est réalisé par::
 - https://github.com/PierreCornu[Pierre Cornu]
 - https://github.com/RaphaLLamothe[Raphaël Lamothe]
 - https://github.com/NariaReynhard[Naria Savary]
-- David Tran
+- https://github.com/DavidTRANMinhAnh[David Tran]
 
 Tuteur/tutrice enseignant(e) de l'équipe:: mailto:jean-michel.bruel@univ-tlse2.fr[JMB]
 
