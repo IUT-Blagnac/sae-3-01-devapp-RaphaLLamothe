@@ -16,6 +16,56 @@ Equipe : David Tran, Naria Savary, Pierre Cornu, Raphaël Lamothe
 
 == 1-Diagrammes des Use Cases
 
+Use Case 1
+
+image::assets/UseCase1.png[]
+
+Diagramme de séquence 1
+
+image::assets/DiagrammeSequence1.png[]
+
+Use Case 2
+
+image::assets/UseCase2.png[]
+
+Diagramme de séquence 2
+
+image::assets/DiagrammeSequence2.png[]
+
+Use Case 3
+
+image::assets/UseCase3.png[]
+
+Diagramme de séquence 3
+
+image::assets/DiagrammeSequence3.png[]
+
+Use Case 4
+
+image::assets/UseCase4.png[]
+
+Diagramme de séquence 4
+
+image::assets/DiagrammeSequence4.png[]
+
+Use Case 5
+
+image::assets/UseCase5.png[]
+
+Diagramme de séquence 5
+
+image::assets/DiagrammeSequence5.png[]
+
+Use Case 6
+
+image::assets/UseCase6.png[]
+
+Diagramme de séquence 6
+
+image::assets/DiagrammeSequence6.png[]
+
+
+
 == 2-Descriptions des Use Cases
 
 == 3-Diagramme des classes métier
