@@ -20,6 +20,8 @@ Equipe : David Tran, Naria Savary, Pierre Cornu, Raphaël Lamothe
 
 == 3-Diagramme des classes métier
 
+image::assets/diagramme_classe_metiers.jpg[]
+
 == 4-Diagrammes de classes de conception
 === (Recherche, visualisation et ajout au panier des produits)
 
