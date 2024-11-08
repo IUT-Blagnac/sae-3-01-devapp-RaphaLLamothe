@@ -70,7 +70,7 @@ image::assets/DiagrammeSequence6.png[]
 
 Le premier Use Case correspond à la User Story suivante : +
 _En tant que nouveau client, je veux créer un compte facilement, afin de gérer mes informations personnelles et mes commandes._
-
++
 
 Le Use Case et la User Story qui lui est associée permet de représenter les actions que le client possède quant à la création d'un compte, et comment celles-ci s'effectuetn dans le programme que nous allons créer.
 
