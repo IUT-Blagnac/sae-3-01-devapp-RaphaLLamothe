@@ -7,7 +7,7 @@ Equipe : David Tran, Naria Savary, Pierre Cornu, Raphaël Lamothe
 ** <<1-Diagramme des Use Cases>>
 ** <<2-Description des Use Cases>>
 ** <<3-Diagramme des classes métier>>
-** <<4-Diagramme de classes de conception>>
+** <<4-Diagrammes de classes de conception>>
 * <<Conclusion>>
 
 == Introduction
