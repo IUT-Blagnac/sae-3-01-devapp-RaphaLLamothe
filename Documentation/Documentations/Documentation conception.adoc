@@ -12,7 +12,9 @@ Equipe : David Tran, Naria Savary, Pierre Cornu, Raphaël Lamothe
 
 == Introduction
 
-
+Ce projet s'inscrit dans le besoin de SweetShops d'élargir son marché en ouvrant une boutique numérique. Cela permettra à l'entreprise de se faire connaître et d'atteindre une clientèle qui n'a pas forcément les moyens de se développer dans ses boutiques physiques. +
+Ce document traite des cas d'utilisation du site, il présentera également un diagramme des classes métiers ainsi qu'un diagramme des classes de conceptions, ce dernier axé sur les fonctionnalité de recherche, de visualisation et d'ajout au panier des produits proposés par le site. +
+Il est destiné à l'équipe de développement afin d'avoir une compréhension unique de l'architecture du site, ainsi qu'au client pour qu'il puisse visualiser comment ce dernier fonctionnera, et enfin à l'équipe pédagogique afin d'être évalué.
 
 == 1-Diagrammes des Use Cases
 
@@ -136,3 +138,7 @@ Le troisième diagramme de classe de conception présenté est celui sur l'ajout
 image::assets/diagramme_classe_conception_ajout_panier.PNG[]
 
 == Conclusion
+
+Ce document illustre donc comment nous souhaitons articulé la base de données afin de répondre au mieux et efficacement aux missions que doit remplir le site final. +
+Cependant il est bon de noté que le projet s'incrit dans un apprentissage scolaire et qu'il est écrit avant tout développement et sera évalué avant que d'éventuelles mises à jour se montrent pertinentes, il n'est donc pas à exclure que certaines stratégies. +
+Les prochains objectifs de l'équipe seront de mettre en place une ébauche de site munis d'une base de donnée fonctionnelle afin d'avoir une base à présenter et améliorer au cours des prochains sprints.
