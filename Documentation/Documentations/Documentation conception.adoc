@@ -4,8 +4,8 @@ Equipe : David Tran, Naria Savary, Pierre Cornu, Raphaël Lamothe
 
 == Table des Matières
 * <<Introduction>>
-** <<1-Diagramme des Use Cases>>
-** <<2-Description des Use Cases>>
+** <<1-Diagrammes des Use Cases>>
+** <<2-Descriptions des Use Cases>>
 ** <<3-Diagramme des classes métier>>
 ** <<4-Diagrammes de classes de conception>>
 * <<Conclusion>>
@@ -14,9 +14,9 @@ Equipe : David Tran, Naria Savary, Pierre Cornu, Raphaël Lamothe
 
 
 
-== 1-Diagramme des Use Cases
+== 1-Diagrammes des Use Cases
 
-== 2-Description des Use Cases
+== 2-Descriptions des Use Cases
 
 == 3-Diagramme des classes métier
 
