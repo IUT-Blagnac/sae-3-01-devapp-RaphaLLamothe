@@ -88,7 +88,7 @@ _En tant que client, je veux voir des photos et des descriptions détaillées de
 Le Use Case et la User Story qui lui est associée permet de voir comment seront présentés les produits, c'est-à-dire ici avec un aperçu du produit et une description détaillée de ce qu'il contient.
 
 
-*Le quatrième Use Case correspond à la User Story suivante :* +
+===== *Le quatrième Use Case correspond à la User Story suivante :* +
 _En tant que client, je veux pouvoir finaliser ma commande, afin de recevoir mes confiseries._
 
 
