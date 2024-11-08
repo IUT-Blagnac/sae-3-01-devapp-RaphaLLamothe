@@ -3,14 +3,16 @@
 Equipe : David Tran, Naria Savary, Pierre Cornu, Raphaël Lamothe
 
 == Table des Matières
-* Introduction	1
-** 1-Diagramme des Use Cases	3
-** 2-Description des Use Cases	4
-** 3-Diagramme des classes métier	5
-** 4-Diagramme de classes de conception	6
-* Conclusion	7
+* Introduction
+** 1-Diagramme des Use Cases
+** 2-Description des Use Cases
+** 3-Diagramme des classes métier
+** 4-Diagramme de classes de conception
+* Conclusion
 
 == Introduction
+
+
 
 == 1-Diagramme des Use Cases
 
@@ -18,6 +20,18 @@ Equipe : David Tran, Naria Savary, Pierre Cornu, Raphaël Lamothe
 
 == 3-Diagramme des classes métier
 
-== 4-Diagramme de classes de conception (Recherche, visualisation et ajout au panier des produits)
+== 4-Diagrammes de classes de conception (Recherche, visualisation et ajout au panier des produits)
 
-Conclusion
+Le premier diagramme de classe de conception présenté est celui sur la recherche de produits. 
+
+image::diagramme_classe_conception_recherche.PNG[]
+
+Le deuxième diagramme de classe de conception présenté est celui sur la visualisation des produits.
+
+image::diagramme_classe_conception_visualisation.PNG[]
+
+Le troisième diagramme de classe de conception présenté est celui sur l'ajout au panier des produits.
+
+image::diagramme_classe_conception_ajout_panier.PNG[]
+
+== Conclusion
