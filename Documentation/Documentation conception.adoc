@@ -1,0 +1,23 @@
+= Document de Conception
+
+Equipe : David Tran, Naria Savary, Pierre Cornu, Raphaël Lamothe
+
+== Table des Matières
+* Introduction	1
+** 1-Diagramme des Use Cases	3
+** 2-Description des Use Cases	4
+** 3-Diagramme des classes métier	5
+** 4-Diagramme de classes de conception	6
+* Conclusion	7
+
+== Introduction
+
+== 1-Diagramme des Use Cases
+
+== 2-Description des Use Cases
+
+== 3-Diagramme des classes métier
+
+== 4-Diagramme de classes de conception (Recherche, visualisation et ajout au panier des produits)
+
+Conclusion
