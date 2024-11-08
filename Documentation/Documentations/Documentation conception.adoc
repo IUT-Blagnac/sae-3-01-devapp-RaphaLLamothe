@@ -139,6 +139,6 @@ image::assets/diagramme_classe_conception_ajout_panier.PNG[]
 
 == Conclusion
 
-Ce document illustre donc comment nous souhaitons articulé la base de données afin de répondre au mieux et efficacement aux missions que doit remplir le site final. +
-Cependant il est bon de noté que le projet s'incrit dans un apprentissage scolaire et qu'il est écrit avant tout développement et sera évalué avant que d'éventuelles mises à jour se montrent pertinentes, il n'est donc pas à exclure que certaines stratégies. +
-Les prochains objectifs de l'équipe seront de mettre en place une ébauche de site munis d'une base de donnée fonctionnelle afin d'avoir une base à présenter et améliorer au cours des prochains sprints.
+Ce document illustre donc comment nous souhaitons articuler la base de données afin de répondre au mieux et efficacement aux missions que doit remplir le site final. +
+Cependant il est bon de noter que le projet s'incrit dans un apprentissage scolaire et qu'il est écrit avant tout développement et sera évalué avant que d'éventuelles mises à jour se montrent pertinentes, il n'est donc pas à exclure que certaines stratégies. +
+Les prochains objectifs de l'équipe seront de mettre en place une ébauche de site munie d'une base de donnée fonctionnelle afin d'avoir une base à présenter et améliorer au cours des prochains sprints.
